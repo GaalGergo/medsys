@@ -1,2 +1,2 @@
-#MedSys
-*Intranetes kórházi egészségügyi szoftver*
+# MedSys
+*Intranetes kórházi `egészségügyi` szoftver*
